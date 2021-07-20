@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PAGE TITLE"
-permalink: https://tehjuggernate.github.io/testing
+permalink: /testing/
 ---
 
 ## This is a test page.
