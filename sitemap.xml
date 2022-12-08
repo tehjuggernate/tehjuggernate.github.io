@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>topics/installation.html</loc>
+      <lastmod>2022-12-08T01:56:53Z</lastmod>
+   </url>
+   <url>
+      <loc>tasks/installation_on_windows.html</loc>
+      <lastmod>2022-12-08T01:56:53Z</lastmod>
+   </url>
+   <url>
+      <loc>tasks/installation_on_mac.html</loc>
+      <lastmod>2022-12-08T01:56:53Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/ui.html</loc>
+      <lastmod>2022-12-08T01:56:53Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/login_screen.html</loc>
+      <lastmod>2022-12-08T01:56:53Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/troubleshooting.html</loc>
+      <lastmod>2022-12-08T01:56:53Z</lastmod>
+   </url>
+</urlset>
