@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"ui-d278e55":{"topics":[{"title":"Talk Selection Screen","shortdesc":"<p class=\"shortdesc\">The login screen is the first screen of the application<\/p>","href":"topics\/login_screen.html","attributes":{"data-id":"login_screen"},"menu":{"hasChildren":false},"tocID":"login_screen-d278e69","topics":[]}]}};
